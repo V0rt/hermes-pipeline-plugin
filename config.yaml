@@ -1,4 +1,4 @@
-# Pipeline Plugin Config v3.2.0
+# Pipeline Plugin Config v3.4.0 — default profile (cloud Polza)
 # Flash по умолчанию, security на Pro-делегации.
 # Приоритет: agents > defaults > BUILTIN_MODEL_MAP (models.py)
 
